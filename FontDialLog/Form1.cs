@@ -70,5 +70,10 @@ namespace FontDialLog
                 System.IO.File.WriteAllText(s.FileName,textBox1.Text );
 
         }
+
+        private void PrintToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
